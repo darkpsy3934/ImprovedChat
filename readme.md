@@ -1,8 +1,10 @@
 Improved Chat by wd1966
 =======================
 
-**Improved Chat** is a legacy mod developed by *wd1966* which was abandoned and went through several different maintainers who maintained the old (base-class-overriding) version before I get fed up with the conflicts this generated and decided to make a base clean litemod version.
+**Improved Chat** is a Minecraft clientside chat mod originally developed by *wd1966*, eventually being maintained by a bunch of other developers.
 
-A lot of the code here is still pretty dreadful (having been decompiled and recompiled multiple times) but I've done my best to clean it up in a basic fashion so that it's at least readable and not totally broken. However please bear in mind whilst browsing that this code is not even close to representative of anything I would write myself.
+This fork is maintained by *darkpsy3934* using a CC-BY-SA License Model.  This code-base will be updated to the latest build approximately a week after the release of the latest MCP build.
 
-If you want to compile this then you'll need a LiteLoader MCP workspace but the ant script does the rest. If you're not using Eclipse or MCP then you're on your own.
+I'm currently in the process of cleaning up the code and obtaining a Continuous Integration server so the latest builds are always available.  The initial process will be cleaning up the code and fixing bugs that may be present.
+
+This README will be updated with the latest progress at all times.
