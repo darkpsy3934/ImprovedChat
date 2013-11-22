@@ -7,7 +7,7 @@
 	<property name="version" value="3.1.0" />
     <property name="mcversion" value="1.6.4" />
     <property name="litemodversion" value="1.6.4" />
-    <property name="author" value="wd1966, Mumfrey, Chrismack" />
+    <property name="author" value="wd1966, Mumfrey, Chrismack, Darkpsy3934" />
 
     <!-- Project definitions and dependencies -->
 	<property name="upstream" value="LiteLoader" />
